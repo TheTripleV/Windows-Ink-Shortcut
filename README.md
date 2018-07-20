@@ -21,3 +21,8 @@ In the Windows Ink Settings (Settings -> Devices -> Pen & Windows Ink), set a pe
 ### Development
 Download the ahk files and modify them.
 
+## Prerequisites
+
+```
+Autohotkey
+```
